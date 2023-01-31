@@ -1,0 +1,1 @@
+{$quote->product_name}
